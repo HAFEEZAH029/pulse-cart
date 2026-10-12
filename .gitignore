@@ -2,8 +2,10 @@ node_modules/
 .next/
 dist/
 .turbo/
-.env
-.env.*
 !.env.example
 *.log
 .DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat

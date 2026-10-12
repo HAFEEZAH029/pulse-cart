@@ -9,8 +9,8 @@
     "pnpm": ">=11"
   },
   "scripts": {
-    "dev": "turbo dev",
-    "build": "turbo build",
+    "dev": "node init && turbo dev",
+    "build": "node init && turbo build",
     "typecheck": "turbo typecheck",
     "lint": "turbo lint"
   },
